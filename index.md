@@ -67,19 +67,10 @@ Whether you are new to regular expressions or would like an overview of capabili
 
 No programming experience is required. These skills can be implemented in many programming languages, text editors, and the command line.  
 
-Regular expressions can seem like a mysterious super-power to the unititated.  But once you get a handle on them they can make life a lot easier for you.
-
-<figure>
-  <a href="https://xkcd.com/208/"><img src="https://imgs.xkcd.com/comics/regular_expressions.png" alt="Regular expression xkcd comic" style="width:100%">
-  <figcaption>https://xkcd.com/208/</figcaption>
-</a>
-</figure>
 
 * http://swcarpentry.github.io/python-novice-gapminder/
 * https://github.com/WHOIGit/pandas-talk
 * https://datacarpentry.org/python-ecology-lesson/
-
-
 
 
 
