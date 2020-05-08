@@ -192,13 +192,16 @@ Display the contact email address set in the configuration file.
   <li> If you have had to make repetative changes to large amounts of data, this workshop is for you.</li>
 </ul>
 <p>
-<b>Regular expressions can seem like a mysterious super-power to the unititated.  But there is no need to be intimidated, we are going to go through this together.  Once you get a handle on them they can make life a lot easier for you!</b>
+Regular expressions can seem like a mysterious super-power but there is no need to be intimidated. We are going to go through this together.  Once you get a handle on them they can make life a lot easier for you!
 </p>
+
+<center>
 <figure>
   <a href="https://xkcd.com/208/" target="_blank"><img src="https://imgs.xkcd.com/comics/regular_expressions.png" alt="Regular expression xkcd comic" style="width:60%">
   <figcaption><img alt="Creative Commons License" style="border:none;height=10px" src="http://creativecommons.org/images/public/somerights20.png"> by xkcd https://xkcd.com/208/</figcaption>
 </a>
 </figure>
+</center>
 
 {% comment %}
 
