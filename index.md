@@ -186,6 +186,51 @@ Regular expressions can seem like a mysterious super-power to the unititated.  B
 </a>
 </figure>
 
+{% comment %}
+
+SYLLABUS
+
+Show what topics will be covered.
+
+1. If your workshop is R rather than Python, remove the comment
+around that section and put a comment around the Python section.
+2. Some workshops will delete SQL.
+3. Please make sure the list of topics is synchronized with what you
+intend to teach.
+4. You may need to move the div's with class="col-md-6" around inside
+the div's with class="row" to balance the multi-column layout.
+
+This is one of the places where people frequently make mistakes, so
+please preview your site before committing, and make sure to run
+'tools/check' as well.
+{% endcomment %}
+
+{% comment %}
+
+
+{% if site.carpentry == "swc" %}
+{% include swc/syllabus.html %}
+{% elsif site.carpentry == "dc" %}
+{% include dc/syllabus.html %}
+{% elsif site.carpentry == "lc" %}
+{% include lc/syllabus.html %}
+{% endif %}
+
+<hr/>
+{% endcomment %}
+
+<h2 id="syllabus">Syllabus</h2>
+
+<p>Syllabus pending. This workshop will use content from the <a href="https://librarycarpentry.org/lc-data-intro/01-regular-expressions/">Carpentries Regular Expression lesson.</a> See <a href="https://carpentries.org/">https://carpentries.org/</a> for more information about the Carpentries organization. </p>
+
+<p>
+Participants will receive an overview of regular expression capabilities and where they can be used (languages, command line, text-editors, etc.). 
+</p>
+<p>
+We will cover regular expression patterns and syntax as well as strategies for forming regular expression patterns.  Using an online regular expression editor we will see in real-time how our patterns match and manipulate data.  
+</p>
+<p>
+Participants will be given exercises to practice regular expression skills.
 
 {% comment%}
 CODE OF CONDUCT
@@ -267,50 +312,6 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 
 <hr/>
 
-{% comment %}
-
-SYLLABUS
-
-Show what topics will be covered.
-
-1. If your workshop is R rather than Python, remove the comment
-around that section and put a comment around the Python section.
-2. Some workshops will delete SQL.
-3. Please make sure the list of topics is synchronized with what you
-intend to teach.
-4. You may need to move the div's with class="col-md-6" around inside
-the div's with class="row" to balance the multi-column layout.
-
-This is one of the places where people frequently make mistakes, so
-please preview your site before committing, and make sure to run
-'tools/check' as well.
-{% endcomment %}
-
-{% comment %}
-<h2 id="syllabus">Syllabus</h2>
-
-{% if site.carpentry == "swc" %}
-{% include swc/syllabus.html %}
-{% elsif site.carpentry == "dc" %}
-{% include dc/syllabus.html %}
-{% elsif site.carpentry == "lc" %}
-{% include lc/syllabus.html %}
-{% endif %}
-
-<hr/>
-{% endcomment %}
-
-
-<p>Syllabus pending. This workshop will use content from the <a href="https://librarycarpentry.org/lc-data-intro/01-regular-expressions/">Carpentries Regular Expression lesson.</a> See <a href="https://carpentries.org/">https://carpentries.org/</a> for more information about the Carpentries organization. </p>
-
-<p>
-Participants will receive an overview of regular expression capabilities and where they can be used (languages, command line, text-editors, etc.). 
-</p>
-<p>
-We will cover regular expression patterns and syntax as well as strategies for forming regular expression patterns.  Using an online regular expression editor we will see in real-time how our patterns match and manipulate data.  
-</p>
-<p>
-Participants will be given exercises to practice regular expression skills.
 </p>
 
 {% comment %}
