@@ -186,9 +186,18 @@ Display the contact email address set in the configuration file.
 <hr/>
 
 <h2 id="why-regex">Why should I learn regular expressions?</h2>
-
-Regular expressions can seem like a mysterious super-power to the unititated.  But there is no need to be intimidated, we are going to go through this together.  Once you get a handle on them they can make life a lot easier for you!
-
+<p>
+If you have ever had to clean a dataset to find various date formats and change them all into one consistant format, this workshop is for you.
+</p>
+<p>
+If you have had to make repetative changes to large amounts of data, this workshop is for you.
+</p>
+<p>
+If you have had to comb through various data files to find certain types of protein or species identifiers, this workshop is for you.
+</p>
+<p>
+<b>Regular expressions can seem like a mysterious super-power to the unititated.  But there is no need to be intimidated, we are going to go through this together.  Once you get a handle on them they can make life a lot easier for you!</b>
+</p>
 <figure>
   <a href="https://xkcd.com/208/" target="_blank"><img src="https://imgs.xkcd.com/comics/regular_expressions.png" alt="Regular expression xkcd comic" style="width:60%">
   <figcaption><img alt="Creative Commons License" style="border:none;height=10px" src="http://creativecommons.org/images/public/somerights20.png"> by xkcd https://xkcd.com/208/</figcaption>
