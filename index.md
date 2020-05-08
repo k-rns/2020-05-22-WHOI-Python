@@ -112,7 +112,7 @@ Modify the block below if there are any special requirements.
   <strong>Requirements:</strong> 
 <ul>
   <li> A desktop or laptop computer.
-  <li> Participants will need to join a Zoom video conference. Installing free zoom conference software is recommended.  You will not need a paid account. (See Joining a meeting from Zoom Help Center  <a href="https://support.zoom.us/hc/en-us/articles/201362193-Joining-a-Meeting"></a>).</li>
+  <li> Participants will need to join a Zoom video conference. Installing free zoom conference software is recommended.  You will not need a paid account. See <a href="https://support.zoom.us/hc/en-us/articles/201362193-Joining-a-Meeting">Joining a meeting from Zoom Help Center</a></li>
   <li> A web browser. Students will use a free, online regular expression editor (e.g. https://regex101.com/)
   <li> No other software or operating system required.</li>
 </ul>  
@@ -293,7 +293,7 @@ please preview your site before committing, and make sure to run
 <p>Syllabus pending. This workshop will use content from the <a href="https://librarycarpentry.org/lc-data-intro/01-regular-expressions/">Carpentries Regular Expression lesson.</a> See <a href="https://carpentries.org/">https://carpentries.org/</a> for more information about the Carpentries organization. </p>
 
 <p>
-Participants will recieve an overview of regular expression capabilities and where they can be used (languages, command line, text-editors, etc.). 
+Participants will receive an overview of regular expression capabilities and where they can be used (languages, command line, text-editors, etc.). 
 </p>
 <p>
 We will cover regular expression patterns and syntax as well as strategies for forming regular expression patterns.  Using an online regular expression editor we will see in real-time how our patterns match and manipulate data.  
@@ -306,6 +306,7 @@ Participants will be given exercises to practice regular expression skills.
 SETUP
 
 It is recommended that you download and install free Zoom conference software.  No other setup required.
+See <a href="https://support.zoom.us/hc/en-us/articles/201362193-Joining-a-Meeting">Joining a meeting from Zoom Help Center</a>).
 {% endcomment %}
 
 <h2 id="setup">Setup</h2>
