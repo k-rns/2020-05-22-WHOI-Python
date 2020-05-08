@@ -80,14 +80,12 @@ workshop is only open to people from a particular institution.
 {% endif %}
 
 This workshop is targeted towards the technical WHOI staff in order to improve project efficiency and build technical skills.
-The workshop will only be held for 10 people at a time.
+The workshop will only be held for 10 people at a time.  This course will be tought on-line through Zoom.
 
 
 {% comment %}
 LOCATION
 {% endcomment %}
-
-This is a course will be tought on-line through Zoom.
 
 
 {% comment %}
