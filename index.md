@@ -176,13 +176,26 @@ Display the contact email address set in the configuration file.
 
 <hr/>
 
+<h2 id="why-regex">Why should I learn regular expressions?</h2>
+
+Regular expressions can seem like a mysterious super-power to the unititated.  But there is no need to be intimidated, we are going to go through this together.  Once you get a handle on them they can make life a lot easier for you!
+
+<figure>
+  <a href="https://xkcd.com/208/"><img src="https://imgs.xkcd.com/comics/regular_expressions.png" alt="Regular expression xkcd comic" style="width:25em" class="center">
+  <figcaption>https://xkcd.com/208/</figcaption>
+</a>
+</figure>
+
+
 {% comment%}
 CODE OF CONDUCT
 {% endcomment %}
 <h2 id="code-of-conduct">Code of Conduct</h2>
 
 <p>
-We will be using the Carpentries code of conduct.  Everyone who participates in this workshop is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. 
+We will be using the Carpentries code of conduct for this workshop.  
+</p>
+<p>Everyone who participates in this workshop is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. 
 </p>
 
 {% comment %}
@@ -222,9 +235,9 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 
 {% comment %}
 SURVEYS - DO NOT EDIT SURVEY LINKS
-{% endcomment %}
+
 <h2 id="surveys">Surveys</h2>
-Pending
+{% endcomment %}
 
 {% comment %}
 <p>Please be sure to complete these surveys before and after the workshop.</p>
@@ -240,8 +253,9 @@ SCHEDULE
 Show the workshop's schedule.  Edit the items and times in the table
 to match your plans.  You may also want to change 'Day 1' and 'Day
 2' to be actual dates or days of the week.
-{% endcomment %}
+
 <h2 id="schedule">Schedule</h2>
+{% endcomment %}
 
 {% if site.carpentry == "swc" %}
 {% include swc/schedule.html %}
@@ -271,17 +285,6 @@ This is one of the places where people frequently make mistakes, so
 please preview your site before committing, and make sure to run
 'tools/check' as well.
 {% endcomment %}
-
-
-<h2 id="why-regex">Why should I learn regular expressions?</h2>
-
-Regular expressions can seem like a mysterious super-power to the unititated.  But there is no need to be intimidated, we are going to go through this together.  Once you get a handle on them they can make life a lot easier for you!
-
-<figure>
-  <a href="https://xkcd.com/208/"><img src="https://imgs.xkcd.com/comics/regular_expressions.png" alt="Regular expression xkcd comic" style="width:25em" class="center">
-  <figcaption>https://xkcd.com/208/</figcaption>
-</a>
-</figure>
 
 {% comment %}
 <h2 id="syllabus">Syllabus</h2>
