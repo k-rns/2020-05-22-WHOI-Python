@@ -80,11 +80,14 @@ workshop is only open to people from a particular institution.
 {% endif %}
 
 This workshop is targeted towards the technical WHOI staff in order to improve project efficiency and build technical skills.
-The workshop will only be held for 10 people at a time.  This course will be tought on-line through Zoom.
+The workshop will only be held for 10 people at a time.
+
 
 {% comment %}
 LOCATION
 {% endcomment %}
+
+This is a course will be tought on-line through Zoom.
 
 
 {% comment %}
@@ -229,14 +232,14 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 
 <hr/>
 
-{% endcomment %}
+
 {% comment %}
 SCHEDULE
 
 Show the workshop's schedule.  Edit the items and times in the table
 to match your plans.  You may also want to change 'Day 1' and 'Day
 2' to be actual dates or days of the week.
-
+{% endcomment %}
 <h2 id="schedule">Schedule</h2>
 
 {% if site.carpentry == "swc" %}
