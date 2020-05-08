@@ -190,8 +190,8 @@ Display the contact email address set in the configuration file.
 Regular expressions can seem like a mysterious super-power to the unititated.  But there is no need to be intimidated, we are going to go through this together.  Once you get a handle on them they can make life a lot easier for you!
 
 <figure>
-  <a href="https://xkcd.com/208/"><img src="https://imgs.xkcd.com/comics/regular_expressions.png" alt="Regular expression xkcd comic" style="width:50%" class="center">
-  <figcaption><img alt="Creative Commons License" style="border:none;height=3em" src="http://creativecommons.org/images/public/somerights20.png">by xkcd https://xkcd.com/208/</figcaption>
+  <a href="https://xkcd.com/208/"><img src="https://imgs.xkcd.com/comics/regular_expressions.png" alt="Regular expression xkcd comic" style="width:70%" class="center">
+  <figcaption><img alt="Creative Commons License" style="border:none;height=1em" src="http://creativecommons.org/images/public/somerights20.png">by xkcd https://xkcd.com/208/</figcaption>
 </a>
 </figure>
 
