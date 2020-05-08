@@ -43,8 +43,6 @@ It looks like you are setting up a website for a Data Carpentry curriculum but y
 {% endunless %}
 {% endif %}
 
-
-
 <h2 id="general">General Information</h2>
 
 {% comment %}
@@ -61,7 +59,7 @@ the pitch.
 {% include lc/intro.html %}
 {% endif %}
 
-Are you tired of hand-editing your data to fix errors and formatting issues? Harness the power of regular expressions to search, match, and manipulate your data.
+Are you tired of hand-editing your data to fix errors and formatting issues? Harness the power of regular expressions (regex) to search, match, and manipulate your data.
 
 Whether you are new to regular expressions or would like an overview of capabilities to level up your regex game, this workshop is for you! No programming experience is required. These skills can be implemented in many programming languages, text editors, and the command line.  
 
