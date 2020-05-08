@@ -38,7 +38,7 @@ flavor: ""
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: Data wrangling of tables using python and the pandas package
+title: Harnessing the power of regular expressions with Amber York
 
 
 #------------------------------------------------------------
@@ -51,7 +51,7 @@ kind: "workshop"
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
 # Please don't change it: <USERNAME>/<PROJECT> is correct.
-repository: <USERNAME>/<PROJECT>
+repository: adyork/2020-05-21-WHOI-Python-online
 
 # Email address, no mailto:
 # (Don't change this -- the contact address for your workshop will be set
