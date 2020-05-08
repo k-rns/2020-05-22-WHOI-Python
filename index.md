@@ -187,9 +187,9 @@ Display the contact email address set in the configuration file.
 
 <h2 id="why-regex">Why should I learn regular expressions?</h2>
 <ul>
-  <li>If you have ever had to clean a dataset to change timetamps in various formats into one consistant format, this workshop is for you.</li>
-  <li> If you have had to comb through data files to find all abundance values next to a specific set of specific species identifiers, this workshop is for you.</li>
-  <li> If you have had to make repetative changes to data in flat files, this workshop is for you.</li>
+  <li>If you have ever had to clean a dataset to change timetamps in various formats into one consistant format, regex is for you.</li>
+  <li> If you have had to comb through data files to find all abundance values next to a specific set of specific species identifiers, regex is for you.</li>
+  <li> If you have had to make repetative changes to data in flat files, regex is for you.</li>
 </ul>
 <p>
 Regular expressions can seem like a mysterious super-power but there is no need to be intimidated. We are going to go through this together.  Once you get a handle on them they can make life a lot easier for you!
