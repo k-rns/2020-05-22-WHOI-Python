@@ -182,7 +182,7 @@ Regular expressions can seem like a mysterious super-power to the unititated.  B
 
 <figure>
   <a href="https://xkcd.com/208/"><img src="https://imgs.xkcd.com/comics/regular_expressions.png" alt="Regular expression xkcd comic" style="width:25em" class="center">
-  <figcaption>https://xkcd.com/208/</figcaption>
+  <figcaption><img alt="Creative Commons License" style="border:none" src="http://creativecommons.org/images/public/somerights20.png">by xkcd https://xkcd.com/208/</figcaption>
 </a>
 </figure>
 
