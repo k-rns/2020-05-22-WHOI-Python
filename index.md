@@ -61,7 +61,19 @@ the pitch.
 {% include lc/intro.html %}
 {% endif %}
 
-Data wrangling of tables using python and the pandas package: Workshops always have the cleanest, best examples of data tables to use, don\`t they? We present you with the tools to get to that perfect table. So your colleague will always be able to understand your data and so will you  
+Are you tired of hand-editing your data to fix errors and formatting issues? Harness the power of regular expressions to search, match, and manipulate your data.
+
+Whether you are new to regular expressions or would like an overview of capabilities to level up your regex game, this workshop is for you.
+
+No programming experience is required. These skills can be implemented in many programming languages, text editors, and the command line.  
+
+Regular expressions can seem like a mysterious super-power to the unititated.  But once you get a handle on them they can make life a lot easier for you.
+
+<figure>
+  <a href="https://xkcd.com/208/"><img src="https://imgs.xkcd.com/comics/regular_expressions.png" alt="Regular expression xkcd comic" style="width:100%">
+  <figcaption>https://xkcd.com/208/</figcaption>
+</a>
+</figure>
 
 * http://swcarpentry.github.io/python-novice-gapminder/
 * https://github.com/WHOIGit/pandas-talk
