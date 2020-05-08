@@ -9,12 +9,12 @@ country: "us"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
 latitude: "41"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-70"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "May 22, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "May 21, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "8:45 am - 12:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2020-05-22      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2020-05-22        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Karen Soenen"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Amber York, Brett Longworth, Stace Beaulieu"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+startdate: 2020-05-21      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2020-05-21        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Amber York"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Karen Soenen, Brett Longworth, Stace Beaulieu"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["ksoenen@whoi.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -255,6 +255,17 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 <hr/>
 
 {% comment %}
+
+<h2 id="schedule">WHY SHOULD I LEARN REGULAR EXPRESSIONS?</h2>
+
+Regular expressions can seem like a mysterious super-power to the unititated.  But there is no need to be intimidated, we are going to go through this together.  Once you get a handle on them they can make life a lot easier for you!
+
+<figure>
+  <a href="https://xkcd.com/208/"><img src="https://imgs.xkcd.com/comics/regular_expressions.png" alt="Regular expression xkcd comic" style="width:25em" class="center">
+  <figcaption>https://xkcd.com/208/</figcaption>
+</a>
+</figure>
+
 SYLLABUS
 
 Show what topics will be covered.
