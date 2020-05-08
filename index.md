@@ -84,9 +84,6 @@ This workshop is targeted towards the technical WHOI staff in order to improve p
 The workshop will only be held for 10 people at a time.
 
 
-
-
-
 {% comment %}
 LOCATION
 {% endcomment %}
@@ -113,11 +110,15 @@ SPECIAL REQUIREMENTS
 Modify the block below if there are any special requirements.
 {% endcomment %}
 
+
 <p id="requirements">
-  <strong>Requirements:</strong> Participants will need to be able to run the Zoom video conference software to join the workshop. (See Joining a meeting from Zoom Help Center  <a href="https://support.zoom.us/hc/en-us/articles/201362193-Joining-a-Meeting"></a>).</br>
-  No special software will be required for examples and exercises besides a web browser.  Students will use a free, online regular expression editor (e.g. https://regex101.com/)
+  <strong>Requirements:</strong> </br>
+<ul>
+  <li>Participants will need to be able to run the Zoom video conference software to join the workshop. (See Joining a meeting from Zoom Help Center  <a href="https://support.zoom.us/hc/en-us/articles/201362193-Joining-a-Meeting"></a>).</li>
+  <li> No special software will be required for examples and exercises besides a web browser.  Students will use a free, online regular expression editor (e.g. https://regex101.com/)</li>
+</ul>  
+
 </p>
- 
  
 {% comment %}
 ACCESSIBILITY
@@ -248,7 +249,7 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 
 {% comment %}
 
-<h2 id="schedule">WHY SHOULD I LEARN REGULAR EXPRESSIONS?</h2>
+<h2 id="why-regex">Why should I learn regular expressions?</h2>
 
 Regular expressions can seem like a mysterious super-power to the unititated.  But there is no need to be intimidated, we are going to go through this together.  Once you get a handle on them they can make life a lot easier for you!
 
@@ -288,6 +289,18 @@ please preview your site before committing, and make sure to run
 
 <hr/>
 {% endcomment %}
+
+
+<p>Syllabus pending </p>
+
+<p>
+Participants will recieve an overview of regular expression capabilities and where they can be used (languages, command line, text-editors, etc.). 
+</br>
+We will cover regular expression patterns and syntax as well as strategies for forming regular expression patterns.  Using an online regular expression editor we will see in real-time how our patterns match and manipulate data.  
+</br>
+Participants will be given exercises to practice regular expression skills.
+</p>
+
 {% comment %}
 SETUP
 
