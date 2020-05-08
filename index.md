@@ -97,7 +97,7 @@ The workshop will only be held for 10 people at a time.
 LOCATION
 {% endcomment %}
 
-This is a course for Woods Hole Oceanographic Institution that will be tought on-line
+This is a course for the Woods Hole Oceanographic Institution will be tought on-line through Zoom.
 
 
 {% comment %}
@@ -120,8 +120,8 @@ Modify the block below if there are any special requirements.
 {% endcomment %}
 
 <p id="requirements">
-  <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  <strong>Requirements:</strong> Participants will need to be able to run the Zoom video conference software to join the workshop. (See Joining a meeting from Zoom Help Center  <a href="https://support.zoom.us/hc/en-us/articles/201362193-Joining-a-Meeting"></a>).</br>
+  No special software will be required for examples and exercises besides a web browser.  Students will use a free, online regular expression editor (e.g. https://regex101.com/)
 </p>
  
  
