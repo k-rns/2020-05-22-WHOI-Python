@@ -313,12 +313,11 @@ Participants will be given exercises to practice regular expression skills.
 {% comment %}
 SETUP
 
-It is recommended that you download and install free Zoom conference software.  No other setup required.
-See <a href="https://support.zoom.us/hc/en-us/articles/201362193-Joining-a-Meeting">Joining a meeting from Zoom Help Center</a>).
 {% endcomment %}
 
 <h2 id="setup">Setup</h2>
 
+{% comment %}
 <p>
   To participate in a
   {% if site.carpentry == "swc" %}
@@ -332,11 +331,20 @@ See <a href="https://support.zoom.us/hc/en-us/articles/201362193-Joining-a-Meeti
   you will need access to the software described below.
   In addition, you will need an up-to-date web browser.
 </p>
+{% endcomment %}
+
+It is recommended that you download and install free Zoom conference software.  No other setup required.
+See <a href="https://support.zoom.us/hc/en-us/articles/201362193-Joining-a-Meeting">Joining a meeting from Zoom Help Center</a>).
+
+You will need an up-to-date web browser.
+
+{% comment %}
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
+{% endcomment %}
 
 {% if site.carpentry == "swc" %}
 {% include swc/setup.html %}
