@@ -61,11 +61,8 @@ the pitch.
 
 Are you tired of hand-editing your data to fix errors and formatting issues? Harness the power of regular expressions to search, match, and manipulate your data.
 
-Whether you are new to regular expressions or would like an overview of capabilities to level up your regex game, this workshop is for you.
+Whether you are new to regular expressions or would like an overview of capabilities to level up your regex game, this workshop is for you! No programming experience is required. These skills can be implemented in many programming languages, text editors, and the command line.  
 
-No programming experience is required. These skills can be implemented in many programming languages, text editors, and the command line.  
-
-This workshop will use content from the <a href="https://librarycarpentry.org/lc-data-intro/01-regular-expressions/">Carpentries Regular Expression lesson.</a> See <a href="https://carpentries.org/">https://carpentries.org/</a> for more information about the Carpentries organization.
 {% comment %}
 AUDIENCE
 Explain who your audience is.  (In particular, tell readers if the
@@ -291,26 +288,22 @@ please preview your site before committing, and make sure to run
 {% endcomment %}
 
 
-<p>Syllabus pending </p>
+<p>Syllabus pending. This workshop will use content from the <a href="https://librarycarpentry.org/lc-data-intro/01-regular-expressions/">Carpentries Regular Expression lesson.</a> See <a href="https://carpentries.org/">https://carpentries.org/</a> for more information about the Carpentries organization. </p>
 
 <p>
 Participants will recieve an overview of regular expression capabilities and where they can be used (languages, command line, text-editors, etc.). 
-</br>
+</p>
+<p>
 We will cover regular expression patterns and syntax as well as strategies for forming regular expression patterns.  Using an online regular expression editor we will see in real-time how our patterns match and manipulate data.  
-</br>
+</p>
+<p>
 Participants will be given exercises to practice regular expression skills.
 </p>
 
 {% comment %}
 SETUP
 
-Delete irrelevant sections from the setup instructions.  Each
-section is inside a 'div' without any classes to make the beginning
-and end easier to find.
-
-This is the other place where people frequently make mistakes, so
-please preview your site before committing, and make sure to run
-'tools/check' as well.
+It is recommended that you download and install free Zoom conference software.  No other setup required.
 {% endcomment %}
 
 <h2 id="setup">Setup</h2>
