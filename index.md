@@ -110,7 +110,7 @@ Modify the block below if there are any special requirements.
 <p id="requirements">
   <strong>Requirements:</strong> 
 <ul>
-  <li> A desktop or laptop computer.
+  <li> A desktop or laptop computer.</li>
   <li> Participants will need to join a Zoom video conference. Installing free zoom conference software is recommended.  You will not need a paid account. See <a href="https://support.zoom.us/hc/en-us/articles/201362193-Joining-a-Meeting">Joining a meeting from Zoom Help Center</a></li>
   <li> A web browser. Students will use a free, online regular expression editor (e.g. https://regex101.com/)</li>
   <li> No other software or operating system required.</li>
