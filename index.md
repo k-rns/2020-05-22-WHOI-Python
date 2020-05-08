@@ -92,11 +92,20 @@ DATE
 This block displays the date and links to Google Calendar.
 {% endcomment %}
 
+{% comment %}
 {% if page.humandate %}
 <p id="when">
   <strong>When:</strong>
   {{page.humandate}}.
   {% include workshop_calendar.html %}
+</p>
+{% endif %}
+{% endcomment %}
+
+{% if page.humandate %}
+<p id="when">
+  <strong>When:</strong>
+  {{page.humandate}}
 </p>
 {% endif %}
 
