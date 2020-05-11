@@ -77,9 +77,9 @@ workshop is only open to people from a particular institution.
 {% include lc/who.html %}
 {% endif %}
 
-This workshop is targeted towards the technical WHOI staff in order to improve project efficiency and build technical skills.
-It will only be held for 10 people at a time through an online Zoom meeting.
-
+<p>This workshop is targeted towards the technical WHOI staff in order to improve project efficiency and build technical skills.
+It will only be held for 10 people at a time through an online Zoom meeting.</p>
+<p>Workshop sponsorship: WHOI Academic Programs Doherty Award and a DDVPR Technical Staff Training Award.</p>
 
 {% comment %}
 LOCATION
